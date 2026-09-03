@@ -34,9 +34,10 @@ A hands-on lab covering the installation and configuration of Windows Server 202
 
 Successfully deployed Windows Server 2022 and promoted it to an Active Directory Domain Controller, then carried out day-to-day identity administration on top of it — creating Organizational Units and user accounts, resetting passwords, and disabling, enabling, and unlocking accounts. These are foundational Windows Server and Active Directory administration skills directly applicable to IT Help Desk and Junior System Administrator roles.
 
-## Full Documentation
+## Repository Contents
 
-[`Windows Server 2022 Deployment and Active Directory Administration.pdf`](<./Windows Server 2022 Deployment and Active Directory Administration.pdf>) contains the full step-by-step write-up with all implementation screenshots.
+- [`Windows Server 2022 Deployment and Active Directory Administration.pdf`](<./Windows Server 2022 Deployment and Active Directory Administration.pdf>) — full step-by-step write-up
+- [`ss of windows server 2022 adds/`](<./ss of windows server 2022 adds>) — implementation evidence (server deployment, AD DS promotion, and OU/user administration)
 
 ## Author
 
